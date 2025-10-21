@@ -3,12 +3,12 @@
 
 # main menu
 [[main]]
-name = "Home"
+name = "Portada"
 URL = "/"
 weight = 1
 
 [[main]]
-name = "About"
+name = "Acerca de"
 URL = "about/"
 weight = 2
 
@@ -18,18 +18,18 @@ URL = "blog/"
 weight = 3
 
 [[main]]
-name = "Contact"
+name = "Contacto"
 URL = "contact/"
 weight = 4
 
-[[main]]
-name = "Sample Page"
-URL = "sample-page/"
-weight = 5
+# [[main]]
+# name = "Sample Page"
+# URL = "sample-page/"
+# weight = 5
 
 # only desktop menu
-[[desktop]]
-name = "Contact"
-URL = "contact/"
-weight = 1
+# [[desktop]]
+# name = "Contacto"
+# URL = "contact/"
+# weight = 1
 

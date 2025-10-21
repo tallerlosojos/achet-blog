@@ -1,18 +1,18 @@
 ---
-title: "Works and Days"
-date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-1.png"
+title: "La precariedad laboral, modernidad y modernización capitalista"
+date: 2025-03-14T15:40:24+06:00
+image : "images/2020-landscape-2.png"
 # author
-author : ["Admin"]
+author : ["Dasten Julian"]
 # categories
-categories: ["Working days"]
-tags: ["work", "day"]
+categories: ["Artículos"]
+tags: ["precariedad", "modernidad"]
 # meta description
-description: "This is meta description"
+description: "Asociación Chilena de Estudios del Trabajo © 2025"
 # save as draft
 draft: false
 ---
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+En el presente texto generamos un debate como propuesta de discusión y revisión de algunas premisas epistémicas/conceptuales que atraviesan la sociología del trabajo en la actualidad latinoamericana. Nos centramos en un enfoque histórico a los fenómenos de la" precariedad" y" precarización laboral", planteando una deconstrucción dialéctica de la reproducción/relación y representación de fenómenos y categorías, o sea el problema de la generación-utilización del" concepto", a partir de su emergencia en un modelo de acumulación neoliberal y en la modernidad tardía en las realidades periféricas como la latinoamericana.
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+[ir al articulo](https://scholar.google.com/citations?view_op=view_citation&hl=es&user=rpwAhx4AAAAJ&citation_for_view=rpwAhx4AAAAJ:eQOLeE2rZwMC)

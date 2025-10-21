@@ -1,11 +1,24 @@
-continue_reading: Continue Reading
-categories: Categories
-post_date: Post date
-tags: Tags
-comments: Comments
-find_us: Find Us
-address: Address
-hours: Hours
-to_the_top: To the top
-not_found: 404 Page Not Found!
-back_home: Back To Home
+# continue_reading: Continue Reading
+# categories: Categories
+# post_date: Post date
+# tags: Tags
+# comments: Comments
+# find_us: Find Us
+# address: Address
+# hours: Hours
+# to_the_top: To the top
+# not_found: 404 Page Not Found!
+# back_home: Back To Home
+
+
+continue_reading: Seguir leyendo
+categories: Categorías
+post_date: Fecha de publicación
+tags: Etiquetas
+comments: Comentarios
+find_us: Contacto
+address: Dirección
+hours: Horas
+to_the_top: Volver al inicio
+not_found: 404 Página no encontrada!
+back_home: Volver a la portada

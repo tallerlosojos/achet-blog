@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Author on Twenty Twenty Hugo</title>
-    <link>/author/</link>
+    <link>//localhost:1313/author/</link>
     <description>Recent content in Author on Twenty Twenty Hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="/author/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2025 15:40:24 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/author/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Admin</title>
-      <link>/author/admin/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>/author/admin/</guid>
+      <title>Dasten Julian</title>
+      <link>//localhost:1313/author/dasten-julian/</link>
+      <pubDate>Fri, 14 Mar 2025 15:40:24 +0600</pubDate>
+      <guid>//localhost:1313/author/dasten-julian/</guid>
       <description></description>
     </item>
   </channel>

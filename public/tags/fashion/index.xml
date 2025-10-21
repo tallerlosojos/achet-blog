@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fashion on Twenty Twenty Hugo</title>
-    <link>/tags/fashion/</link>
+    <link>//localhost:1313/tags/fashion/</link>
     <description>Recent content in Fashion on Twenty Twenty Hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/fashion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Life I Deserve</title>
-      <link>/blog/post-3/</link>
+      <link>//localhost:1313/blog/post-3/</link>
       <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>/blog/post-3/</guid>
+      <guid>//localhost:1313/blog/post-3/</guid>
       <description>&lt;p&gt;Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&amp;rsquo;s De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&amp;rsquo;s De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&amp;rsquo;s De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero&amp;rsquo;s De Finibus Bonorum et Malorum for use in a type specimen book.&lt;/p&gt;</description>
     </item>
   </channel>

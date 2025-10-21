@@ -1,7 +1,7 @@
 ---
-title: "Search"
+title: "Buscar"
 # meta description
 description: "This is meta description"
 # save as draft
-draft: false
+draft: true
 ---

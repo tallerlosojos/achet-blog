@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Formulario de contacto"
 bg_image: "images/2020-landscape-2.png"
 # meta description
 description: "This is meta description"
@@ -7,4 +7,4 @@ description: "This is meta description"
 draft: false
 ---
 
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+<div data-tf-live="01K8279TT7S7CE2HPEA6T0XYK9"></div><script src="//embed.typeform.com/next/embed.js"></script>

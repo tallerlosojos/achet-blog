@@ -2,8 +2,8 @@
 baseURL = "/"
 title = "Twenty Twenty Hugo"
 theme = "twenty-twenty-hugo"
-languageName = "En"
-languageCode = "en-us"
+languageName = "Es"
+languageCode = "es-es"
 # post pagination
 pagination.pagerSize = "6"
 # post excerpt

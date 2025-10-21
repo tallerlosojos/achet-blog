@@ -2,52 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Twenty Twenty Hugo</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Twenty Twenty Hugo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 15:40:24 +0600</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Mar 2025 15:40:24 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Day</title>
-      <link>/tags/day/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>/tags/day/</guid>
+      <title>Modernidad</title>
+      <link>//localhost:1313/tags/modernidad/</link>
+      <pubDate>Fri, 14 Mar 2025 15:40:24 +0600</pubDate>
+      <guid>//localhost:1313/tags/modernidad/</guid>
       <description></description>
     </item>
     <item>
-      <title>Fashion</title>
-      <link>/tags/fashion/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>/tags/fashion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Lifestyle</title>
-      <link>/tags/lifestyle/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>/tags/lifestyle/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tour</title>
-      <link>/tags/tour/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>/tags/tour/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Visit</title>
-      <link>/tags/visit/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>/tags/visit/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Work</title>
-      <link>/tags/work/</link>
-      <pubDate>Sat, 14 Mar 2020 15:40:24 +0600</pubDate>
-      <guid>/tags/work/</guid>
+      <title>Precariedad</title>
+      <link>//localhost:1313/tags/precariedad/</link>
+      <pubDate>Fri, 14 Mar 2025 15:40:24 +0600</pubDate>
+      <guid>//localhost:1313/tags/precariedad/</guid>
       <description></description>
     </item>
   </channel>

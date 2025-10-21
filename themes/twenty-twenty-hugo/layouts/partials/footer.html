@@ -1,10 +1,10 @@
 <div class="footer-nav-widgets-wrapper header-footer-group">
   <div class="footer-inner section-inner">
-    <div class="footer-top has-social-menu">
+    <!-- <div class="footer-top has-social-menu">
       <nav aria-label="Social links" class="footer-social-wrapper">
         {{partial "social.html" .}}
       </nav>
-    </div><!-- .footer-top -->
+    </div>.footer-top -->
     {{ with .Site.Params.footer }}
     <aside class="footer-widgets-outer-wrapper" role="complementary">
       <div class="footer-widgets-wrapper">
@@ -24,7 +24,7 @@
               <h2 class="widget-title subheading heading-size-3">{{ T "find_us"}}</h2>
               <div class="textwidget">
                 <p><strong>{{ T "address" }}</strong><br/> {{ .address | markdownify }}</p>
-                <p><strong>{{ T "hours"}}</strong><br/>{{ .hours | markdownify }}</p>
+                <!-- <p><strong>{{ T "hours"}}</strong><br/>{{ .hours | markdownify }}</p> -->
               </div>
             </div>
           </div>
