@@ -47,6 +47,9 @@ h1.entry-title{
 h2.has-text-align-center{
   font-size: 2.8rem !important;
 }
+.has-text-align-center{
+  padding-bottom: 2rem !important;
+}
 h3{
   text-decoration: underline;
   font-size: 1.9rem;
@@ -178,4 +181,13 @@ h3{
   .search-modal .search-field::placeholder {
     color: lightgray;
   }
+}
+
+.read-more-button-wrap {
+  margin-top: 6rem;
+  text-align: center;
+}
+
+.archive-header {
+  display: none;
 }

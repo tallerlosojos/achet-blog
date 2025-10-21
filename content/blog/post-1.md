@@ -1,7 +1,7 @@
 ---
 title: "La precariedad laboral, modernidad y modernización capitalista"
 date: 2025-03-14T15:40:24+06:00
-image : "images/2020-landscape-2.png"
+image : "https://www.ciperchile.cl/wp-content/uploads/TRABAJO-CEPAL.png"
 # author
 author : ["Dasten Julian"]
 # categories
