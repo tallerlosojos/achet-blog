@@ -8,8 +8,12 @@ body {
 
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
+body {
+  background: #e8e8e8;
+}
 body,.entry-content, .widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary{
   font-family: 'Jet Brains Mono', monospace;
+  
 }
 
 .entry-content > :not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) , .post-meta-wrapper{
@@ -190,4 +194,20 @@ h3{
 
 .archive-header {
   display: none;
+}
+
+.logotipo{
+  max-width: 270px;
+}
+
+
+elemento {
+}
+body, .entry-content, .widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary {
+  font-family: jet brains mono,monospace;
+}
+@supports (font-variation-settings:normal) {
+  body {
+    font-family: inter var,-apple-system,BlinkMacSystemFont,helvetica neue,Helvetica,sans-serif;
+  }
 }

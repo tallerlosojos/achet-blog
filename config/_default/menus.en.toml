@@ -7,10 +7,10 @@ name = "Portada"
 URL = "/"
 weight = 1
 
-[[main]]
-name = "Acerca de"
-URL = "about/"
-weight = 2
+# [[main]]
+# name = "Acerca de"
+# URL = "about/"
+# weight = 2
 
 [[main]]
 name = "Blog"
