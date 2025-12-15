@@ -1,8 +1,9 @@
 /* 
 @import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
 body {
-  font-family: 'Otomanopee One', sans-serif !important;
+  font-family: 'Jet Brains Mono', sans-serif !important;
 }
 */
 
@@ -12,7 +13,7 @@ body {
   background: #e8e8e8;
 }
 body,.entry-content, .widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary{
-  font-family: 'Jet Brains Mono', monospace;
+  font-family: 'Jet Brains Mono', monospace !important;
   
 }
 
