@@ -1,109 +1,126 @@
-/* 
-@import url('https://fonts.googleapis.com/css2?family=Otomanopee+One&display=swap');
+/* --- 1. Importaciones y Variables --- */
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
 
+/* --- 2. Reglas Generales y Tipografía Base --- */
 body {
-  font-family: 'Jet Brains Mono', sans-serif !important;
-}
-*/
-
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
-
-body {
-  background: #e8e8e8;
-}
-body,.entry-content, .widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary{
-  font-family: 'Jet Brains Mono', monospace !important;
-  
+  background: white;
+  /* Establece la fuente principal para todo el cuerpo */
+  font-family: 'JetBrains Mono', monospace !important; 
 }
 
-.entry-content > :not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) , .post-meta-wrapper{
+/* Reglas específicas para asegurar la fuente en elementos comunes */
+body, 
+.entry-content, 
+.widget_text p, 
+.widget_text ol, 
+.widget_text ul, 
+.widget_text dl, 
+.widget_text dt, 
+.widget-content .rssSummary {
+  font-family: 'JetBrains Mono', monospace !important;
+}
+
+/* Elimina algunas reglas redundantes que se encuentran en el código original */
+/* elemento {} */
+/* body, .entry-content, .widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary { font-family: jet brains mono,monospace; } */
+
+/* --- 3. Enlaces y Botones --- */
+a {
+  color: black !important;
+  text-decoration: underline !important;
+  border: none !important;
+}
+
+a:hover, 
+a:focus {
+  text-decoration: none !important;
+}
+
+/* Las reglas de botones se encuentran mayormente en las media queries para manejo responsivo */
+
+
+/* --- 4. Layout y Estructura (Clases Específicas del Tema/Sitio) --- */
+.entry-content > :not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide), 
+.post-meta-wrapper {
   max-width: 80rem;
 }
+
 .post-meta {
   margin-bottom: 7rem;
   margin-top: 5rem;
 }
 
-.post-date-index{
+.post-date-index {
   margin: 0;
   padding: 0 !important;
   font-size: 1.6rem !important;
 }
 
+.cookie-box {
+  font-size: 1.4rem;
+  background: #71e6a4 !important;
+  color: black !important;
+}
 
-
-
-
-.textwidget{
+.textwidget {
   font-size: 1.6rem;
   padding-right: 6rem;
 }
 
-#site-footer{
+#site-footer {
   font-size: 1.4rem;
   text-transform: uppercase;
   letter-spacing: .2px;
 }
 
-h1.entry-title{
+#site-header {
+  padding-bottom: 3rem;
+}
+
+.widget_text p {
+  font-size: 1.4rem;
+}
+
+.to-the-top, 
+.footer-credits {
+  font-size: 1.2rem;
+}
+
+.read-more-button-wrap {
+  margin-top: 6rem;
+  text-align: center;
+}
+
+.archive-header {
+  display: none;
+}
+
+.logotipo {
+  max-width: 270px;
+}
+
+/* --- 5. Tipografía y Encabezados Específicos --- */
+h1.entry-title {
   text-align: left;
 }
-h2.has-text-align-center{
+
+h2.has-text-align-center {
   font-size: 2.8rem !important;
 }
-.has-text-align-center{
+
+.has-text-align-center {
   padding-bottom: 2rem !important;
 }
-h3{
+
+h3 {
   text-decoration: underline;
   font-size: 1.9rem;
   margin-bottom: 0 !Important;
 }
 
-@media (min-width: 700px) {
-  .entry-content {
-    font-size: 1.6rem;
-    p{
-      line-height: 1.7;
-    }
-  }
-}
-
-@media (min-width: 700px) {
-  h2.entry-title {
-    font-size: 2.4rem;
-    text-transform: uppercase;
-    letter-spacing: 0.1px;
-  }
-}
-
-@media (min-width: 1220px) {
-  h1, .heading-size-1 {
-    font-size: 3rem;
-    text-transform: uppercase;
-    letter-spacing: 6px;
-    font-weight: 300;
-  }
-}
-
-@supports (font-variation-settings:normal) {
-  .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6, .entry-content cite, .entry-content figcaption, .entry-content table, .entry-content address, .entry-content .wp-caption-text, .entry-content .wp-block-file {
-    font-family: 'Jet Brains Mono', monospace;;
-  }
-}
-
-@media (min-width: 700px) {
-  h3, .heading-size-3 {
-    font-size: 1.6rem;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-    font-weight: 300;
-    text-decoration: underline;
-  }
-}
-
-.modal-menu > li > a, .modal-menu > li > .ancestor-wrapper > a {
+/* --- 6. Menús y Navegación --- */
+.modal-menu > li > a, 
+.modal-menu > li > .ancestor-wrapper > a {
   font-size: 1.6rem;
   padding: 2.5rem 0;
   text-transform: uppercase;
@@ -112,17 +129,11 @@ h3{
   text-align: right;
 }
 
-  button.close-nav-toggle .toggle-text {
+button.close-nav-toggle .toggle-text {
   font-weight: bolder;
   text-transform: uppercase;
   letter-spacing: .5px;
   font-size: 1.4rem;
-}
-
-@media (min-width: 1000px) {
-  .menu-modal-inner {
-    width: 30rem;
-  }
 }
 
 .site-title a {
@@ -141,22 +152,34 @@ h3{
   margin: .5rem;
 }
 
-#site-header {
-    padding-bottom: 3rem;
-  }
-
-  @media (min-width: 700px) {
-  .post-inner {
-    padding-top: 4rem;
-  }
+.nav-toggle, .search-toggle, .close-nav-toggle{
+  color: black !important;
+  background: white !important;
 }
 
-.widget_text p{
-  font-size: 1.4rem;
+.modal-menu li {
+  padding: 0 2rem;
 }
 
-.to-the-top,.footer-credits{
-  font-size: 1.2rem;
+/* --- 7. @supports y Reglas Especiales de Fuente (CSS Moderno) --- */
+
+/* Asegura que los campos de formulario y botones usen la fuente correcta si el navegador lo soporta */
+@supports (font-variation-settings: normal) {
+  input, 
+  textarea, 
+  button, 
+  .button, 
+  .faux-button, 
+  .faux-button.more-link, 
+  .wp-block-button__link, 
+  .wp-block-file__button {
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  .entry-content h1, .entry-content h2, .entry-content h3, .entry-content h4, .entry-content h5, .entry-content h6, .entry-content cite, .entry-content figcaption, .entry-content table, .entry-content address, .entry-content .wp-caption-text, .entry-content .wp-block-file {
+    font-family: 'JetBrains Mono', monospace;
+  }
+  /* Regla original redundante con la global body: @supports (font-variation-settings:normal) { body { font-family: inter var,-apple-system,BlinkMacSystemFont,helvetica neue,Helvetica,sans-serif; } } */
 }
 
 [class*="__inner-container"] > :not(.alignwide):not(.alignfull):not(.alignleft):not(.alignright):not(.is-style-wide) {
@@ -170,45 +193,97 @@ h3{
   font-weight: 400;
 }
 
-@supports (font-variation-settings:normal) {
-  input, textarea, button, .button, .faux-button, .faux-button.more-link, .wp-block-button__link, .wp-block-file__button {
-    font-family: 'Jet Brains Mono', monospace;
+  /* Botones para escritorio */
+  button, 
+  .button, 
+  .faux-button, 
+  .wp-block-button__link, 
+  input[type="button"], 
+  input[type="reset"], 
+  input[type="submit"] {
+    font-size: 1.5rem; /* Ajustado para consolidar reglas */
+    background: black !important;
+    border: none !important;
+    color: white !important;
   }
+
+  button:hover, 
+  button:focus, 
+  .button:hover, 
+  .button:focus, 
+  .wp-block-button__link:hover, 
+  input[type="button"]:hover, 
+  input[type="reset"]:hover, 
+  input[type="submit"]:hover { 
+    color: black !important;
+    background: white !important;
+    text-decoration: underline;
+  }
+
+ .wp-block-group__inner-container h3, .wp-block-group__inner-container p, .wp-block-group__inner-container .wp-block-button {
+  margin-left: 0 !important;
+ }
+
+ h2.has-text-align-center {
+  font-size: 2rem !important;
 }
 
-@media (min-width: 700px) {
-  button, .button, .faux-button, .wp-block-button__link, input[type="button"], input[type="reset"], input[type="submit"] {
-    font-size: 1.5rem;
-  }
-}
+/* --- 8. Media Queries (Responsividad) --- */
 
 @media (min-width: 700px) {
+  /* Tipografía de contenido principal */
+  .entry-content {
+    font-size: 1.6rem;
+    /* Anidamiento de reglas SASS/CSS anidado (si tu preprocesador lo soporta, si no, separamos): */
+    /* p { line-height: 1.7; } */
+  }
+  .entry-content p {
+     line-height: 1.7;
+  }
+h2.has-text-align-center {
+  font-size: 2.8rem !important;
+}
+  /* Encabezados y Footer */
+  h2.entry-title {
+    font-size: 2.4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1px;
+  }
+
+  h3, 
+  .heading-size-3 {
+    font-size: 1.6rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 300;
+  }
+
+  #site-footer {
+    font-size: 1.8rem;
+    padding: 4.3rem 0 12rem;
+  }
+
+  .post-inner {
+    padding-top: 4rem;
+  }
+
   .search-modal .search-field::placeholder {
     color: lightgray;
   }
 }
 
-.read-more-button-wrap {
-  margin-top: 6rem;
-  text-align: center;
+@media (min-width: 1000px) {
+  .menu-modal-inner {
+    width: 30rem;
+  }
 }
 
-.archive-header {
-  display: none;
-}
-
-.logotipo{
-  max-width: 270px;
-}
-
-
-elemento {
-}
-body, .entry-content, .widget_text p, .widget_text ol, .widget_text ul, .widget_text dl, .widget_text dt, .widget-content .rssSummary {
-  font-family: jet brains mono,monospace;
-}
-@supports (font-variation-settings:normal) {
-  body {
-    font-family: inter var,-apple-system,BlinkMacSystemFont,helvetica neue,Helvetica,sans-serif;
+@media (min-width: 1220px) {
+  h1, 
+  .heading-size-1 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    font-weight: 300;
   }
 }
