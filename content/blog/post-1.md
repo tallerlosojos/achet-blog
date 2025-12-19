@@ -5,8 +5,8 @@ image : "https://res.cloudinary.com/nicolasvenegas/image/upload/v1766174233/cart
 # author
 author : ["Achet Chile"]
 # categories
-categories: ["Artículos"]
-tags: ["precariedad", "modernidad"]
+categories: ["Convocatorias"]
+tags: ["congreso", "ALAST", "valdivia"]
 # meta description
 description: "Asociación Chilena de Estudios del Trabajo © 2025"
 # save as draft

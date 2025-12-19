@@ -1,8 +1,8 @@
 {
-  "name": "achet-chile",
+  "name": "achet-chile blog",
   "version": "2.0.0",
   "license": "MIT",
-  "author": "gethugothemes",
+  "author": "nicolas venegas",
   "scripts": {
     "dev": "hugo server",
     "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --buildDrafts --buildExpired --buildFuture --forceSyncStatic",

@@ -11,8 +11,8 @@ author = "author"
 #################### default parameters ################################
 [params]
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "Blog de la Asociación Chilena de Estudios del Trabajo"
+author = "Taller Los Ojos"
 
 # favicon
 [params.favicon]
@@ -27,7 +27,7 @@ button = "Acepto"
 
 # banner
 [params.banner]
-heading = "Asociación Nacional de Estudios del Trabajo"
+heading = "Asociación Chilena de Estudios del Trabajo"
 image = "https://www.memoriasdelsigloxx.cl/601/articles-64403_imagen.jpg"
 
 # blog
@@ -58,7 +58,7 @@ image = "images/2020-square-1.png"
 [params.footer]
 title = "Este blog"
 content = "Realizar, auspiciar, promover y asesorar todo tipo de estudios, proyectos y programas de carácter cultural. Apoyar la promoción y desarrollo de actividades culturales, a través de trabajos, estudios, intercambio de tecnologías, cursos de perfeccionamiento de profesores, alumnos o personas interesadas en la expresión de la cultura.<br><br><br><small><b> Imagen de portada: </b>Temporeras de Gualliguaica- memoriasdelsigloxx.cl</small>"
-address = "+56 9 6826 7230 <br> contacto@achet.cl <br> <br><b>Formulario web </b> <br>https://form.typeform.com/to/Su9QxrhO"
+address = "+56 9 8357 3198 <br> contacto@achetchile.cl <br> <br><b>Formulario 1er Congreso Chileno de Estudios del Trabajo </b> <br>https://forms.gle/VfDh1mF9w38QmyVw5"
 # hours = ""
 copyright = "Asociación Chilena de Estudios del Trabajo &copy; 2025 "
 

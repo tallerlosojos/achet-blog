@@ -1,9 +1,9 @@
 ######################## default configuration ####################
 baseURL = "/"
-title = "Twenty Twenty Hugo"
+title = "ACHET Chile"
 theme = "twenty-twenty-hugo"
 languageName = "Es"
-languageCode = "es-es"
+languageCode = "es-cl"
 # post pagination
 pagination.pagerSize = "6"
 # post excerpt

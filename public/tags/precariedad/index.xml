@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Precariedad on Twenty Twenty Hugo</title>
+    <title>Precariedad on ACHET Chile</title>
     <link>//localhost:1313/tags/precariedad/</link>
-    <description>Recent content in Precariedad on Twenty Twenty Hugo</description>
+    <description>Recent content in Precariedad on ACHET Chile</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 14 Mar 2025 15:40:24 +0600</lastBuildDate>
     <atom:link href="//localhost:1313/tags/precariedad/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>La precariedad laboral, modernidad y modernización capitalista</title>
-      <link>//localhost:1313/blog/post-1/</link>
-      <pubDate>Fri, 14 Mar 2025 15:40:24 +0600</pubDate>
-      <guid>//localhost:1313/blog/post-1/</guid>
-      <description>&lt;p&gt;En el presente texto generamos un debate como propuesta de discusión y revisión de algunas premisas epistémicas/conceptuales que atraviesan la sociología del trabajo en la actualidad latinoamericana. Nos centramos en un enfoque histórico a los fenómenos de la&amp;quot; precariedad&amp;quot; y&amp;quot; precarización laboral&amp;quot;, planteando una deconstrucción dialéctica de la reproducción/relación y representación de fenómenos y categorías, o sea el problema de la generación-utilización del&amp;quot; concepto&amp;quot;, a partir de su emergencia en un modelo de acumulación neoliberal y en la modernidad tardía en las realidades periféricas como la latinoamericana.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
